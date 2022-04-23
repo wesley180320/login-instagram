@@ -158,4 +158,12 @@ body {
     .group {
         border: 1px solid transparent;
     }
+
+    .app-download {
+        height: 30px;
+        width: 1rem;
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+    }
 }
